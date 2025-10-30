@@ -3,7 +3,8 @@ Game by:
 - Nekopatis
 - Pyriel
 
-## Gamemodes 
+## 👥 Gamemodes 
+(You can change modes via the UI's buttons. N.B: clicking either will reset the current game.)
 - Solo
   - Play Tetris just the way it is!
 - Duo: 1 "Piece" and 1 "Player"
@@ -11,10 +12,9 @@ Game by:
   - Player: Small, vulnerable character who can move and jump.
     - If a block is placed where the Player is, the Player gets eliminated, which puts an end to the game.
     - Any square occupied by the Player counts as filled for line clearing.
-    - Will you cooperate or fight each other? It's up to you to figure that out
+    - Will you cooperate or fight each other? It's up to you to figure it out!
 
-## Controls and UI
-Controls (listed in-game):
+## 🎮 Controls
 - General:
   - Esc, P: Pause the game.
   - While the game is paused:
@@ -30,18 +30,13 @@ Controls (listed in-game):
   - →: Move the Player to the right.
   - ↑: Make the Player jump.
 
-Buttons:
-- New Game Solo: Starts a new game* in Solo mode.
-- New Game Duo: Starts a new game* in Duo mode.
+## ▶️ How to execute
+- 🪟 Windows/ 🍏 Mac: Execute `TetrisPlatformer.jar` with Java 21 or older.
+- 🐧 Linux: At the root of the directory, run `java -jar TetrisPlatformer.jar`.
 
-<sub>* Game will start regardless of the game's current status and mode.<sub>
-
-## How to execute
-- On Windows: Execute `TetrisPlatformer.jar` with Java 21 or older.
-- On Linux: At the root of the directory, run `java -jar TetrisPlatformer.jar`.
-
-## Known issues
+## ⚠️ Known issues
 - If the Bottom of the game doesn't seem visible, try either of the following:
   - Maximize the window.
   - If Windows uses a different scaling (e.g: 125% for wider screens instead of 100%), switch back to 100%.
+
 
