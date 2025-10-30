@@ -5,17 +5,19 @@ Game by:
 - Pyriel
 
 
-## Features:
+# Gamemodes 
 
-Two Gamemodes:
 - Solo
-  - (Plays much like regular Tetris.)
+  - Play Tetris just the way it is!
 - Duo: 1 "Piece" and 1 "Player"
-  - Piece: (Much like regular Tetris.)
+  - Piece: Place pieces like in a normal game of Tetris.
   - Player: Small, vulnerable character who can move and jump.
-    - If a block is placed where the Player is, the Player gets eliminated which puts an end to the game.
-    - Any (technical) square occupied by the Player counts as filled for line clearing.
-    - Will you cooperate or fight each other? It's up to you to figure that out!
+    - If a block is placed where the Player is, the Player gets eliminated, which puts an end to the game.
+    - Any square occupied by the Player counts as filled for line clearing.
+    - Will you cooperate or fight each other? It's up to you to figure that out
+
+
+## Controls and UI
 
 Controls (liste in-game):
 - General:
@@ -36,6 +38,7 @@ Controls (liste in-game):
 Buttons:
 - New Game Solo: Starts a new game* in Solo mode.
 - New Game Duo: Starts a new game* in Duo mode.
+
 <sub>* Game will start regardless of the game's current status and mode.<sub>
 
 
@@ -49,4 +52,5 @@ Buttons:
 
 - If the Bottom of the game doesn't seem visible, try either of the following:
   - Maximize the window.
+
   - If Windows uses a different scaling (e.g: 125% for wider screens instead of 100%), switch back to 100%.
