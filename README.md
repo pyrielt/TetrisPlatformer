@@ -1,12 +1,9 @@
 # Tetris Platformer
-
 Game by:
 - Nekopatis
 - Pyriel
 
-
-# Gamemodes 
-
+## Gamemodes 
 - Solo
   - Play Tetris just the way it is!
 - Duo: 1 "Piece" and 1 "Player"
@@ -16,10 +13,8 @@ Game by:
     - Any square occupied by the Player counts as filled for line clearing.
     - Will you cooperate or fight each other? It's up to you to figure that out
 
-
 ## Controls and UI
-
-Controls (liste in-game):
+Controls (listed in-game):
 - General:
   - Esc, P: Pause the game.
   - While the game is paused:
@@ -41,16 +36,12 @@ Buttons:
 
 <sub>* Game will start regardless of the game's current status and mode.<sub>
 
-
 ## How to execute
-
 - On Windows: Execute `TetrisPlatformer.jar` with Java 21 or older.
 - On Linux: At the root of the directory, run `java -jar TetrisPlatformer.jar`.
 
-
 ## Known issues
-
 - If the Bottom of the game doesn't seem visible, try either of the following:
   - Maximize the window.
-
   - If Windows uses a different scaling (e.g: 125% for wider screens instead of 100%), switch back to 100%.
+
